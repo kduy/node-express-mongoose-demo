@@ -57,7 +57,7 @@
     "passport-twitter": "~1.0.3",
     "view-helpers": "~0.1.5",
     "winston": "~2.4.0",
-    "snyk": "^1.52.0"
+    "snyk": "^1.189.0"
   },
   "devDependencies": {
     "babel-eslint": "~8.0.1",
